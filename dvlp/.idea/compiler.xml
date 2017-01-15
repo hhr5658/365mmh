@@ -22,11 +22,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="dvlp" />
+        <module name="dvlp_code" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="dvlp" target="1.8" />
+      <module name="dvlp_code" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
